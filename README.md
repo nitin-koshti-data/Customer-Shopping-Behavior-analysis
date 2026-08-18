@@ -21,7 +21,7 @@ The project includes data analysis using SQL and Python along with an interactiv
 
 ---
 ## 📁 Project File
----
+'''
 Customer-Shopping-Behavior-Analysis/
 │
 ├── README.md
@@ -41,8 +41,7 @@ Customer-Shopping-Behavior-Analysis/
 │
 └── Python/
     └── Customer_Shopping_Behavior.ipynb
-
----
+'''
 
 ## 📈 Power BI Dashboard
 The dashboard provides two main views:
