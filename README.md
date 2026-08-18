@@ -20,6 +20,7 @@ The project includes data analysis using SQL and Python along with an interactiv
 - CSV
 
 ## 📁 Project Structure
+
 customer-shopping-behavior-analysis/
 │
 ├── README.md
@@ -120,10 +121,10 @@ Business Insights
 ## 📸 Dashboard Preview
 
 ### Revenue Insights
-![Revenue Insights](./Dashboard/Revenue_Insights.png)
+![Revenue Insights](./Revenue_Insights.png)
 
 ### Behavior Insights
-![Behavior Insights](./Dashboard/Behavior_Insights.png)
+![Behavior Insights](./Behavior_Insights.png)
 
 ## 🎯 Skills Demonstrated
 - Data Cleaning
