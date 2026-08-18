@@ -20,9 +20,9 @@ The project includes data analysis using SQL and Python along with an interactiv
 - CSV
 
 ---
-## 📁 Project Structure
+## 📁 Project File
 
-customer-shopping-behavior-analysis/
+Customer-Shopping-Behavior-Analysis/
 │
 ├── README.md
 │
@@ -31,7 +31,7 @@ customer-shopping-behavior-analysis/
 │   └── Behavior_Insights.png
 │
 ├── PowerBI/
-│   └── Customer_Dashboard.pbix
+│   └── Customer Dashboard.pbix
 │
 ├── Dataset/
 │   └── customer_shopping_behavior.csv
