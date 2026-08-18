@@ -19,6 +19,7 @@ The project includes data analysis using SQL and Python along with an interactiv
 - DAX
 - CSV
 
+---
 ## 📁 Project Structure
 
 customer-shopping-behavior-analysis/
