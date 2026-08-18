@@ -41,7 +41,6 @@ Customer-Shopping-Behavior-Analysis/
 │
 └── Python/
     └── Customer_Shopping_Behavior.ipynb
-
 ---
 
 ## 📈 Power BI Dashboard
